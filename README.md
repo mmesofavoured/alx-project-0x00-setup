@@ -25,3 +25,11 @@ This project uses the Next.js Pages Router.
 - `/` → Home page
 - `/landing` → Landing page
 - `/about` → About page
+
+## Components
+
+Reusable UI components are stored in the `components` directory.
+- Card component
+- Pill component
+
+Assets such as images are stored under `public/assets/images`.
