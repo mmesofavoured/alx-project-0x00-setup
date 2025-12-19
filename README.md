@@ -17,3 +17,11 @@ This project was scaffolded using `npx create-next-app@latest`.
 
 3. Open the app in your browser:
    http://localhost:3000
+
+
+## Basic Routing
+
+This project uses the Next.js Pages Router.
+- `/` → Home page
+- `/landing` → Landing page
+- `/about` → About page
