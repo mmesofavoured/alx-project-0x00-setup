@@ -38,3 +38,9 @@ Assets such as images are stored under `public/assets/images`.
 
 The `Card` component is reused multiple times on the Landing page to demonstrate
 component reusability and modular UI design in React and Next.js.
+
+## Typing Components
+
+TypeScript interfaces are used to strongly type component props.
+The `PillProps` interface is defined in the `interfaces` directory and reused
+across components to ensure type safety and reusability.
