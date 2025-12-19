@@ -44,3 +44,10 @@ component reusability and modular UI design in React and Next.js.
 TypeScript interfaces are used to strongly type component props.
 The `PillProps` interface is defined in the `interfaces` directory and reused
 across components to ensure type safety and reusability.
+
+
+## Button Component
+
+A reusable Button component was created that accepts dynamic text and styles
+via props. Multiple button sizes and shapes are rendered on the Landing page
+to demonstrate component reusability and flexibility.
