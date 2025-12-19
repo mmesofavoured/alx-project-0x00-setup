@@ -33,3 +33,8 @@ Reusable UI components are stored in the `components` directory.
 - Pill component
 
 Assets such as images are stored under `public/assets/images`.
+
+## Using Components
+
+The `Card` component is reused multiple times on the Landing page to demonstrate
+component reusability and modular UI design in React and Next.js.
